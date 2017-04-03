@@ -506,3 +506,396 @@ LogInit: Object subsystem initialized
 [2017.04.03-03.13.40:199][200]LogSlate: Took 0.005953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2017.04.03-03.14.28:269][264]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2017.04.03-03.14.28:898][265]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.04.03-04.17.05:262][187]LogSavePackage: Save=18.12ms
+[2017.04.03-04.17.05:262][187]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/LaunchPad_BlueprintD2247CCD422E8654304D6F85FE21C65E.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset'
+[2017.04.03-04.17.05:266][187]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset
+[2017.04.03-04.18.17:886][432]LogSavePackage: Save=18.13ms
+[2017.04.03-04.18.17:886][432]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/LaunchPad_BlueprintD44FB5B34AB5CC6F50030C8D688BB8D3.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset'
+[2017.04.03-04.18.17:890][432]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset
+[2017.04.03-04.18.49:135][675]LogSavePackage: Save=129.29ms
+[2017.04.03-04.18.49:135][675]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/SideScrollerExampleMap_Auto26D4A3C244B317C57CE18A8B53DE0E042.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap'
+[2017.04.03-04.18.49:136][675]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto2.umap
+[2017.04.03-04.18.49:139][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.160
+[2017.04.03-04.18.49:139][675]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.160
+[2017.04.03-04.22.03:841][512]LogSavePackage: Save=21.30ms
+[2017.04.03-04.22.03:841][512]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/LaunchPad_BlueprintD0F551244BFB2736CB0FB68464DE6D6C.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset'
+[2017.04.03-04.22.03:843][512]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/LaunchPad_Blueprint.uasset
+[2017.04.03-04.22.05:860][680]BlueprintLog: New page: Compile LaunchPad_Blueprint
+[2017.04.03-04.22.13:710][314]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.03-04.22.13:718][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.22.13:721][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.03-04.22.13:724][314]PIE: New page: PIE session: SideScrollerExampleMap (Apr 2, 2017, 6:22:13 PM)
+[2017.04.03-04.22.13:725][314]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.04.03-04.22.13:745][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020448s)
+[2017.04.03-04.22.13:746][314]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.04.03-04.22.13:746][314]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2017.04.03-04.22.13:747][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022539s)
+[2017.04.03-04.22.13:772][314]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.03-04.22.13:778][314]LogInit: FAudioDevice initialized.
+[2017.04.03-04.22.13:827][314]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.04.03-04.22.13:838][314]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.04.02-23.22.13
+[2017.04.03-04.22.13:840][314]LogWorld: Bringing up level for play took: 0.003423
+[2017.04.03-04.22.13:886][314]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.04.03-04.22.13:889][314]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.111
+[2017.04.03-04.22.13:889][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.22.53:827][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.22.53:887][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.23.05:710][484]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.03-04.23.05:722][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.23.05:722][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.03-04.23.05:722][484]PIE: New page: PIE session: SideScrollerExampleMap (Apr 2, 2017, 6:23:05 PM)
+[2017.04.03-04.23.05:722][484]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.04.03-04.23.05:741][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019135s)
+[2017.04.03-04.23.05:742][484]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.04.03-04.23.05:742][484]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2017.04.03-04.23.05:743][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020322s)
+[2017.04.03-04.23.05:767][484]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.03-04.23.05:773][484]LogInit: FAudioDevice initialized.
+[2017.04.03-04.23.05:806][484]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.04.03-04.23.05:808][484]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.04.02-23.23.05
+[2017.04.03-04.23.05:808][484]LogWorld: Bringing up level for play took: 0.002119
+[2017.04.03-04.23.05:809][484]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.19
+[2017.04.03-04.23.05:809][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.23.30:775][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.23.30:821][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.25.33:165][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.04.03-04.25.37:131][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.04.03-04.25.40:387][155]Cmd: TRANSACTION UNDO
+[2017.04.03-04.25.40:387][155]LogEditorTransaction: Undo Snap Actors To Floor
+[2017.04.03-04.27.54:134][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.04.03-04.27.56:741][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge8)
+[2017.04.03-04.28.02:038][221]Cmd: TRANSACTION UNDO
+[2017.04.03-04.28.02:038][221]LogEditorTransaction: Undo Scale Actors
+[2017.04.03-04.28.10:870][196]Cmd: TRANSACTION UNDO
+[2017.04.03-04.28.10:870][196]LogEditorTransaction: Undo Scale Actors
+[2017.04.03-04.28.22:308][460]Cmd: TRANSACTION UNDO
+[2017.04.03-04.28.22:308][460]LogEditorTransaction: Undo Rotate Actors
+[2017.04.03-04.29.54:704][880]LogSavePackage: Save=138.04ms
+[2017.04.03-04.29.54:704][880]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/SideScrollerExampleMap_Auto33406FDF449F6CE0BE2A006A7B8E04A20.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap'
+[2017.04.03-04.29.54:709][880]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto3.umap
+[2017.04.03-04.29.54:711][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.175
+[2017.04.03-04.29.54:711][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2017.04.03-04.31.11:057][508]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.04.03-04.31.20:088][227]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.03-04.31.20:098][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.31.20:098][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.03-04.31.20:098][227]PIE: New page: PIE session: SideScrollerExampleMap (Apr 2, 2017, 6:31:20 PM)
+[2017.04.03-04.31.20:098][227]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.04.03-04.31.20:118][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019884s)
+[2017.04.03-04.31.20:119][227]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.04.03-04.31.20:119][227]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2017.04.03-04.31.20:120][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021135s)
+[2017.04.03-04.31.20:144][227]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.03-04.31.20:150][227]LogInit: FAudioDevice initialized.
+[2017.04.03-04.31.20:179][227]LogLoad: Game class is 'GM_C'
+[2017.04.03-04.31.20:182][227]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.04.02-23.31.20
+[2017.04.03-04.31.20:182][227]LogWorld: Bringing up level for play took: 0.002230
+[2017.04.03-04.31.20:183][227]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.183
+[2017.04.03-04.31.20:183][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.31.28:330][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.31.28:391][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.34.26:553][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.04.03-04.34.27:359][736]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.03-04.34.27:366][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.34.27:366][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.03-04.34.27:366][736]PIE: New page: PIE session: SideScrollerExampleMap (Apr 2, 2017, 6:34:27 PM)
+[2017.04.03-04.34.27:366][736]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.04.03-04.34.27:386][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019285s)
+[2017.04.03-04.34.27:387][736]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.04.03-04.34.27:387][736]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2017.04.03-04.34.27:387][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020772s)
+[2017.04.03-04.34.27:413][736]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.03-04.34.27:419][736]LogInit: FAudioDevice initialized.
+[2017.04.03-04.34.27:446][736]LogLoad: Game class is 'GM_C'
+[2017.04.03-04.34.27:449][736]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.04.02-23.34.27
+[2017.04.03-04.34.27:450][736]LogWorld: Bringing up level for play took: 0.002395
+[2017.04.03-04.34.27:450][736]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.549
+[2017.04.03-04.34.27:451][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.34.38:081][849]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.34.38:141][849]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.04.03-04.34.38:953][911]Cmd: SELECT NONE
+[2017.04.03-04.35.05:319][683]LogGameProjectGeneration:Verbose: 'C:/Program Files/Epic Games/UE_4.15/Templates/TP_PuzzleBP/Media/TP_PuzzleBP.png': Skipping as it is in an ignored folder 'Media'
+[2017.04.03-04.35.05:319][683]LogGameProjectGeneration:Verbose: 'C:/Program Files/Epic Games/UE_4.15/Templates/TP_PuzzleBP/Media/TP_PuzzleBP_Preview.png': Skipping as it is in an ignored folder 'Media'
+[2017.04.03-04.35.05:407][684]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.04.03-04.35.08:729][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/GM" FILE="../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/GM.uasset" SILENT=true
+[2017.04.03-04.35.08:743][684]LogSavePackage: Save=10.50ms
+[2017.04.03-04.35.08:743][684]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/GMB730DB9C4FE89E3C130FB5B0D09DB61B.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/GM.uasset'
+[2017.04.03-04.35.08:745][684]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Blueprints/GM.uasset
+[2017.04.03-04.35.08:946][684]LogSavePackage: Save=119.71ms
+[2017.04.03-04.35.08:947][684]LogSavePackage: Moving '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/SideScrollerExampleMap5C9820B34D57FA80FCF5FDA941F820DC.tmp' to '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.04.03-04.35.08:953][684]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.04.03-04.35.08:968][684]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.216
+[2017.04.03-04.35.09:084][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.04.03-04.35.09:134][684]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.03-04.35.09:347][685]Cmd: QUIT_EDITOR
+[2017.04.03-04.35.09:677][685]LogExit: Preparing to exit.
+[2017.04.03-04.35.10:957][685]LogDirectoryWatcher: A directory notification for 'C:/Users/rjp00/Documents/Github/blueprint/sidescroller/Content/' was aborted.
+[2017.04.03-04.35.11:056][685]LogExit: Editor shut down
+[2017.04.03-04.35.11:057][685]LogExit: Transaction tracking system shut down
+[2017.04.03-04.35.11:181][685]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.03-04.35.11:182][685]LogExit: Object subsystem successfully closed.
+[2017.04.03-04.35.11:199][685]LogD3D11RHI: Shutdown
+[2017.04.03-04.35.11:199][685]LogD3D11RHI: CleanupD3DDevice
+[2017.04.03-04.35.11:315][685]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.03-04.35.11:333][685]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (504)
+[2017.04.03-04.35.11:333][685]LogModuleManager: Shutting down and abandoning module BlueprintGraph (502)
+[2017.04.03-04.35.11:333][685]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (500)
+[2017.04.03-04.35.11:334][685]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (498)
+[2017.04.03-04.35.11:334][685]LogModuleManager: Shutting down and abandoning module CrashTracker (496)
+[2017.04.03-04.35.11:335][685]LogModuleManager: Shutting down and abandoning module SceneOutliner (494)
+[2017.04.03-04.35.11:335][685]LogModuleManager: Shutting down and abandoning module AddContentDialog (492)
+[2017.04.03-04.35.11:335][685]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.15/FeaturePacks/' was aborted.
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module WidgetCarousel (491)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module EditorWidgets (488)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module CollectionManager (486)
+[2017.04.03-04.35.11:340][685]LogDirectoryWatcher: A directory notification for 'C:/Users/rjp00/Documents/Github/blueprint/sidescroller/Content/Collections/' was aborted.
+[2017.04.03-04.35.11:340][685]LogDirectoryWatcher: A directory notification for 'C:/Users/rjp00/Documents/Github/blueprint/sidescroller/Content/Developers/rjp00/Collections/' was aborted.
+[2017.04.03-04.35.11:340][685]LogDirectoryWatcher: A directory notification for 'C:/Users/rjp00/Documents/Github/blueprint/sidescroller/Saved/Collections/' was aborted.
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module StatsViewer (484)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module FoliageEdit (482)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module LandscapeEditor (480)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (478)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module ActorPickerMode (476)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module GeometryMode (474)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module TextureAlignMode (472)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module BspMode (470)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module HardwareSurvey (468)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (466)
+[2017.04.03-04.35.11:340][685]LogModuleManager: Shutting down and abandoning module AutomationWorker (464)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (462)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (460)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module PlacementMode (459)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (456)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (454)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module MfMediaFactory (452)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module MfMediaEditor (450)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (448)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (446)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (444)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module Media (443)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (440)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module CharacterAI (438)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module SequenceRecorder (435)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module SmartSnapping (432)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module SessionServices (430)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module ViewportSnapping (428)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module ViewportInteraction (426)
+[2017.04.03-04.35.11:341][685]LogModuleManager: Shutting down and abandoning module LogVisualizer (424)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module IntroTutorials (422)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (421)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (418)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (416)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (414)
+[2017.04.03-04.35.11:342][685]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (412)
+[2017.04.03-04.35.11:343][685]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (411)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (408)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (406)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module InputBindingEditor (404)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module NiagaraEditor (402)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module MergeActors (400)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module SizeMap (398)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module TreeMap (396)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module ReferenceViewer (394)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (392)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module LocalizationService (391)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module HardwareTargeting (388)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (386)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module UndoHistory (384)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module UserFeedback (382)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module XmlParser (380)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module Blutility (378)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (376)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (375)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (372)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module SettingsEditor (370)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module ProjectLauncher (368)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module SessionFrontend (366)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module ProfilerClient (364)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module DeviceManager (362)
+[2017.04.03-04.35.12:341][685]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (361)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module AutomationController (358)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module AutomationWindow (356)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module Layers (354)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (352)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module DetailCustomizations (350)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module PackagesDialog (348)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module Persona (346)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module AnimGraph (345)
+[2017.04.03-04.35.12:394][685]LogModuleManager: Shutting down and abandoning module Kismet (342)
+[2017.04.03-04.35.12:400][685]LogModuleManager: Shutting down and abandoning module GraphEditor (340)
+[2017.04.03-04.35.12:400][685]LogModuleManager: Shutting down and abandoning module ClassViewer (338)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module Toolbox (336)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module ModuleUI (334)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module MovieSceneTools (332)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module OutputLog (330)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module GammaUI (328)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module Documentation (326)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (322)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module AnalyticsET (320)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module PortalServices (318)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module PortalRpc (316)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module MessagingRpc (314)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module GameplayDebugger (311)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module AITestSuite (309)
+[2017.04.03-04.35.12:401][685]LogModuleManager: Shutting down and abandoning module ProfilerService (306)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module TaskGraph (304)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SteamVRController (302)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SteamVR (300)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (298)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (296)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module OculusLibrary (294)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module OculusInput (292)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (290)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (288)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module CableComponent (286)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (284)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (280)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module HTML5Networking (278)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module AlembicImporter (276)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module AlembicLibrary (275)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module GeometryCache (274)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (273)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (268)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SuperSearch (267)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (264)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module PluginBrowser (262)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (260)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module EpicSurvey (258)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (256)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module DesktopPlatform (255)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module UObjectPlugin (252)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (250)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (248)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module GitSourceControl (246)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module SourceControl (245)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (242)
+[2017.04.03-04.35.12:580][685]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (240)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (238)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module Paper2DEditor (236)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module MeshPaint (235)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module LevelEditor (233)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (232)
+[2017.04.03-04.35.12:581][685]LogModuleManager: Shutting down and abandoning module MainFrame (230)
+[2017.04.03-04.35.12:582][685]LogModuleManager: Shutting down and abandoning module HotReload (229)
+[2017.04.03-04.35.12:582][685]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2017.04.03-04.35.12:583][685]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (222)
+[2017.04.03-04.35.12:583][685]LogModuleManager: Shutting down and abandoning module PhysXVehicles (220)
+[2017.04.03-04.35.12:583][685]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (218)
+[2017.04.03-04.35.12:584][685]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2017.04.03-04.35.12:684][685]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (210)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (206)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module Paper2D (204)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (202)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module WmfMedia (200)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module MfMedia (198)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module MediaAssets (196)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (194)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module VREditor (192)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (190)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (188)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module FunctionalTesting (186)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (184)
+[2017.04.03-04.35.12:784][685]LogModuleManager: Shutting down and abandoning module UMG (182)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module UMGEditor (181)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module Sequencer (180)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module AssetTools (178)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module MessageLog (177)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (176)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module SlateReflector (170)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module Slate (168)
+[2017.04.03-04.35.12:785][685]LogModuleManager: Shutting down and abandoning module EditorStyle (166)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module Core (154)
+[2017.04.03-04.35.12:787][685]LogModuleManager: Shutting down and abandoning module AssetRegistry (152)
+[2017.04.03-04.35.12:957][685]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.03-04.35.12:957][685]LogDirectoryWatcher: A directory notification for '../../../../../../Users/rjp00/Documents/Github/blueprint/sidescroller/Content/' was aborted.
+[2017.04.03-04.35.12:957][685]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.03-04.35.12:957][685]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (151)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module KismetCompiler (148)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module PhysXFormats (146)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module MeshUtilities (144)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (143)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (141)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (139)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module PropertyEditor (137)
+[2017.04.03-04.35.12:961][685]LogModuleManager: Shutting down and abandoning module DerivedDataCache (134)
+[2017.04.03-04.35.13:035][685]LogDerivedDataCache: Shutdown
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TargetPlatform (132)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (131)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (129)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (127)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (125)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (123)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (121)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (119)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (117)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (115)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module ImageWrapper (114)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (111)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (109)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (107)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (105)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (103)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (101)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (99)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (97)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (95)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Messaging (93)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (91)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (89)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (87)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (85)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (83)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (81)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (79)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (77)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (75)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (73)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (71)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (69)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (67)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (65)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (63)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (61)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (59)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (57)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (55)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module InputCore (52)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module Settings (50)
+[2017.04.03-04.35.13:036][685]LogModuleManager: Shutting down and abandoning module OculusRift (48)
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module GearVR (46)
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (44)
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (42)
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (38)
+[2017.04.03-04.35.13:037][685]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module XMPP (37)
+[2017.04.03-04.35.13:037][685]LogModuleManager: Shutting down and abandoning module HTTP (35)
+[2017.04.03-04.35.13:037][685]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.03-04.35.13:037][685]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDA549C36-4798-0A81-6D78-319245259E9F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.15.1-3348071%2B%2B%2BUE4%2BRelease-4.15&UserID=4185becd4bf6032442ae528b8b31c8f0%7Ca027cabd7e7344b5ba3fe3bf944004d7%7C51ca5bf0-1a0a-4bfa-8fd7-2751ab4025f4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.03-04.35.13:052][685]LogModuleManager: Shutting down and abandoning module SSL (34)
+[2017.04.03-04.35.13:053][685]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.04.03-04.35.13:053][685]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.04.03-04.35.13:054][685]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.04.03-04.35.13:054][685]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.04.03-04.35.13:054][685]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.04.03-04.35.13:083][685]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.04.03-04.35.13:084][685]LogExit: Exiting.
+[2017.04.03-04.35.13:096][685]Log file closed, 04/02/17 23:35:13
